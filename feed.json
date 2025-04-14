@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Webガイド",
+    "title": "Webスマホガイド",
     "description": "",
-    "home_page_url": "https://tobu-hachi.github.io",
-    "feed_url": "https://tobu-hachi.github.io/feed.json",
+    "home_page_url": "https://tobu-hachi.github.io/WebGuide",
+    "feed_url": "https://tobu-hachi.github.io/WebGuide/feed.json",
     "user_comment": "",
-    "icon": "https://tobu-hachi.github.io/media/website/icon.png",
+    "icon": "https://tobu-hachi.github.io/WebGuide/media/website/icon.png",
     "author": {
         "name": "Sirokuma_8110F"
     },
